@@ -1,2 +1,2 @@
 # Power-bi-Dashboard-Project
-Hr attrition data analysis
+HR Attrition data analysis
